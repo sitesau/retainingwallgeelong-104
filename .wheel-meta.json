@@ -1,0 +1,22 @@
+{
+  "wheel_id": 458,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-104",
+  "project": "retaining-wall-contractors-geelong-suburb-guide-6904d6daf2132e6",
+  "parent_t1_ref": "retainingwallgeelong-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.au",
+  "primary_kw": "retaining wall contractors geelong suburb guide",
+  "intended_url": "https://sitesau.github.io/retainingwallgeelong-104/",
+  "tier": "T2",
+  "writeback_nonce": "f979b2ff8a6e1692",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-contractors-geelong-7c10499d4410334e606e214dcca2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "retaining wall contractors geelong explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
